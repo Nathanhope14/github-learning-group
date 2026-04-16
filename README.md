@@ -19,3 +19,6 @@ This repository is for our group learning project on Git & GitHub.
 ## Members
 - (Nathan hope )
 - (caris)
+## Progress Log
+- Created repository ✅
+- Created dev branch ✅
